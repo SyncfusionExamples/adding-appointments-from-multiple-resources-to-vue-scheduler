@@ -2,10 +2,6 @@
 
 A quick start project that shows how to add appointments for multiple resources in Syncfusion's Vue Scheduler. This project also includes a code snippet to define a resource data source and how to map that resource with appointments as well as how to set various resource options available in the Vue Scheduler.
 
-Example: https://ej2.syncfusion.com/vue/demos/#/material/schedule/resource.html
-
-Documentation: https://ej2.syncfusion.com/vue/documentation/schedule/resources/
-
 ## Project pre-requisites
 
 Make sure that you have the compatible versions of Node and Vue-Cli in your machine before starting to work on this project.
@@ -33,6 +29,13 @@ npm install
 ## Running on development server
 
 Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
+
+## Documentation
+
+- [Vue Introduction](https://ej2.syncfusion.com/vue/documentation/introduction)
+- [Vue Schedule Component](https://ej2.syncfusion.com/vue/documentation/schedule/getting-started)
+- [Vue Schedule Resources](https://ej2.syncfusion.com/vue/documentation/schedule/resources/)
+- [Live Demo](https://ej2.syncfusion.com/vue/demos/#/material/schedule/resource.html)
 
 ## Further help
 
