@@ -1,6 +1,6 @@
 # Adding Appointments from Multiple Resources to Vue Scheduler
 
-A quick start project that shows how to add appointments for multiple resources in Syncfusion's Vue Scheduler. This project also includes a code snippet to define a resource data source and how to map that resource with appointments as well as how to set various resource options available in the Vue Scheduler.
+A quick start project that shows how to add appointments for multiple resources in [Vue Scheduler](https://www.syncfusion.com/vue-components/vue-scheduler). This project also includes a code snippet to define a resource data source and how to map that resource with appointments as well as how to set various resource options available in the Vue Scheduler.
 
 ## Project pre-requisites
 
@@ -13,12 +13,12 @@ To run this application, you need to first clone the `adding-annotations-to-vue-
 To do so, open the command prompt and run the below commands one after the other.
 
 ```
-git clone vue-example
+git clone adding-annotations-to-vue-charts
 
-cd vue-example
+cd adding-annotations-to-vue-charts
 ```
 
-## Installing
+### Installing
 
 Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed Vue packages into your current project and to do so, run the below command.
 
@@ -26,7 +26,7 @@ Once done with downloading, next you need to install the necessary packages requ
 npm install
 ```
 
-## Running on development server
+### Running on development server
 
 Run `npm run serve` command for a dev server. Navigate to `http://localhost:8080/`. The app will automatically reload if you change any of the source files.
 
